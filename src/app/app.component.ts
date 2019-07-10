@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { StoreWithHistory } from 'src/utility/store-with-history';
+import { StoreWithHistory } from '../utility/store-with-history';
 
 @Component({
   selector: 'app-root',
